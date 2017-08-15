@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FavoriteContacts</string>
+    <string name="fragment_phone_title">PHONE</string>
+    <string name="fragment_home_text">HOME</string>
+    <string name="fragment_mobile_text">Mobile</string>
+    <string name="fragment_work_text">WORK</string>
+    <string name="fragment_address_title">ADDRESS</string>
+    <string name="fragment_email_title">EMAIL</string>
+    <string name="fragment_birthday_title">BIRTHDAY</string>
+</resources>
